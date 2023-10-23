@@ -1,0 +1,3460 @@
+[
+    {
+        "version_number": "v19.9.107",
+        "countries": {
+            "Ghana": {
+                "name": "Ghana",
+                "latitude": 8.0300284,
+                "longitude": -1.0800271,
+                "coordinates": [
+                    -3.260786,
+                    1.2732942,
+                    4.5392525,
+                    11.1748562
+                ],
+                "divisions": {
+                    "Ahafo": {
+                        "name": "Ahafo",
+                        "country": "Ghana",
+                        "latitude": 6.94633355,
+                        "longitude": -1.9009535502873676,
+                        "coordinates": [
+                            -2.0813065,
+                            -1.7794405,
+                            6.7896725,
+                            7.1028559
+                        ],
+                        "sub_divisions": {
+                            "Asunafo North": {
+                                "name": "Asunafo North",
+                                "state": "Ahafo",
+                                "country": "Ghana",
+                                "latitude": 6.7835870499999995,
+                                "longitude": -2.5167417918910786,
+                                "north_latitude": 6.7841144,
+                                "south_latitude": 6.7830091,
+                                "west_longitude": -2.5172022,
+                                "east_longitude": -2.51625,
+                                "coordinates": [
+                                    6.7835617500000005,
+                                    -2.5167260999999996,
+                                    2123.0413819444293
+                                ]
+                            },
+                            "Asunafo South": {
+                                "name": "Asunafo South",
+                                "state": "Ahafo",
+                                "country": "Ghana",
+                                "latitude": 6.56280465,
+                                "longitude": -2.532793563355423,
+                                "north_latitude": 6.7690152,
+                                "south_latitude": 6.3548545,
+                                "west_longitude": -2.8320767,
+                                "east_longitude": -2.371072,
+                                "coordinates": [
+                                    6.56193485,
+                                    -2.60157435,
+                                    50904.0609004488
+                                ]
+                            },
+                            "Asutifi": {
+                                "name": "Asutifi",
+                                "state": "Ahafo",
+                                "country": "Ghana",
+                                "latitude": 7.02615565,
+                                "longitude": -2.3446780645355796,
+                                "north_latitude": 7.0297026,
+                                "south_latitude": 7.0224845,
+                                "west_longitude": -2.3478412,
+                                "east_longitude": -2.3412937,
+                                "coordinates": [
+                                    7.026093550000001,
+                                    -2.34456745,
+                                    2803.51488194447
+                                ]
+                            },
+                            "Asutifi South": {
+                                "name": "Asutifi South",
+                                "state": "Ahafo",
+                                "country": "Ghana",
+                                "latitude": 6.8492428499999995,
+                                "longitude": -2.4612534368836574,
+                                "north_latitude": 7.0404495,
+                                "south_latitude": 6.6581338,
+                                "west_longitude": -2.5369567,
+                                "east_longitude": -2.2246027,
+                                "coordinates": [
+                                    6.84929165,
+                                    -2.3807797,
+                                    44559.17132638893
+                                ]
+                            },
+                            "Tano North": {
+                                "name": "Tano North",
+                                "state": "Ahafo",
+                                "country": "Ghana",
+                                "latitude": 7.19329065,
+                                "longitude": -2.208083369939708,
+                                "north_latitude": 7.3954361,
+                                "south_latitude": 6.9941678,
+                                "west_longitude": -2.3500552,
+                                "east_longitude": -2.0489833,
+                                "coordinates": [
+                                    7.1948019500000004,
+                                    -2.19951925,
+                                    46668.964229166755
+                                ]
+                            },
+                            "Tano South": {
+                                "name": "Tano South",
+                                "state": "Ahafo",
+                                "country": "Ghana",
+                                "latitude": 7.160936749999999,
+                                "longitude": -1.9968170861769698,
+                                "north_latitude": 7.3195063,
+                                "south_latitude": 7.002127,
+                                "west_longitude": -2.1355319,
+                                "east_longitude": -1.8266952,
+                                "coordinates": [
+                                    7.160816649999999,
+                                    -1.9811135500000001,
+                                    37330.487354166646
+                                ]
+                            }
+                        }
+                    },
+                    "Ashanti Region": {
+                        "name": "Ashanti Region",
+                        "country": "Ghana",
+                        "latitude": 6.8003319,
+                        "longitude": -1.5188142,
+                        "coordinates": [
+                            -2.4515899,
+                            -0.2376072,
+                            5.854822,
+                            7.6226954
+                        ],
+                        "sub_divisions": {
+                            "Adansi North": {
+                                "name": "Adansi North",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.3006124,
+                                "longitude": -1.5897139446089033,
+                                "north_latitude": 6.3677987,
+                                "south_latitude": 6.2335159,
+                                "west_longitude": -1.7094308,
+                                "east_longitude": -1.4613896,
+                                "coordinates": [
+                                    6.3006573,
+                                    -1.5854102,
+                                    27410.760047288266
+                                ]
+                            },
+                            "Adansi South": {
+                                "name": "Adansi South",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.00427495,
+                                "longitude": -1.393140321890932,
+                                "north_latitude": 6.1544199,
+                                "south_latitude": 5.854822,
+                                "west_longitude": -1.552222,
+                                "east_longitude": -1.1870003,
+                                "coordinates": [
+                                    6.00462095,
+                                    -1.3696111499999999,
+                                    40376.74244730462
+                                ]
+                            },
+                            "Afigya-Kwabre District": {
+                                "name": "Afigya-Kwabre District",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.839980649999999,
+                                "longitude": -1.6095790017010665,
+                                "north_latitude": 6.9285389,
+                                "south_latitude": 6.7514144,
+                                "west_longitude": -1.6970712,
+                                "east_longitude": -1.524974,
+                                "coordinates": [
+                                    6.8399766500000005,
+                                    -1.6110226,
+                                    21717.400937500064
+                                ]
+                            },
+                            "Ahafo Ano North": {
+                                "name": "Ahafo Ano North",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.90966445,
+                                "longitude": -2.2330122966974257,
+                                "north_latitude": 7.0415876,
+                                "south_latitude": 6.7779322,
+                                "west_longitude": -2.4209676,
+                                "east_longitude": -2.0273209,
+                                "coordinates": [
+                                    6.9097599,
+                                    -2.22414425,
+                                    43441.36631598693
+                                ]
+                            },
+                            "Ahafo Ano South": {
+                                "name": "Ahafo Ano South",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.94633355,
+                                "longitude": -1.9009535502873676,
+                                "north_latitude": 7.1028559,
+                                "south_latitude": 6.7896725,
+                                "west_longitude": -2.0813065,
+                                "east_longitude": -1.7794405,
+                                "coordinates": [
+                                    6.9462642,
+                                    -1.9303735,
+                                    36863.4020972222
+                                ]
+                            },
+                            "Amansie Central": {
+                                "name": "Amansie Central",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.20744165,
+                                "longitude": -1.8281411859273542,
+                                "north_latitude": 6.4044223,
+                                "south_latitude": 6.0102983,
+                                "west_longitude": -1.9784175,
+                                "east_longitude": -1.5741644,
+                                "coordinates": [
+                                    6.2073602999999995,
+                                    -1.77629095,
+                                    44670.36932451347
+                                ]
+                            },
+                            "Amansie West": {
+                                "name": "Amansie West",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.439750849999999,
+                                "longitude": -1.852370457195872,
+                                "north_latitude": 6.591663,
+                                "south_latitude": 6.2877047,
+                                "west_longitude": -1.9853625,
+                                "east_longitude": -1.6507027,
+                                "coordinates": [
+                                    6.43968385,
+                                    -1.8180326,
+                                    36966.478098636326
+                                ]
+                            },
+                            "Asante Akim Central Municipal": {
+                                "name": "Asante Akim Central Municipal",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.56465915,
+                                "longitude": -1.253478513473961,
+                                "north_latitude": 6.7229537,
+                                "south_latitude": 6.4068207,
+                                "west_longitude": -1.3031645,
+                                "east_longitude": -1.1325333,
+                                "coordinates": [
+                                    6.564887199999999,
+                                    -1.2178489,
+                                    37191.74993055553
+                                ]
+                            },
+                            "Asante Akim North": {
+                                "name": "Asante Akim North",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.84104605,
+                                "longitude": -0.9340055690812687,
+                                "north_latitude": 7.0379593,
+                                "south_latitude": 6.6440617,
+                                "west_longitude": -1.2686762,
+                                "east_longitude": -0.755691,
+                                "coordinates": [
+                                    6.841010499999999,
+                                    -1.0121836,
+                                    56611.55614090359
+                                ]
+                            },
+                            "Asante Akim South District": {
+                                "name": "Asante Akim South District",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.46141735,
+                                "longitude": -1.1153392011205852,
+                                "north_latitude": 6.7251186,
+                                "south_latitude": 6.1977444,
+                                "west_longitude": -1.2978853,
+                                "east_longitude": -0.9100199,
+                                "coordinates": [
+                                    6.4614315,
+                                    -1.1039526,
+                                    60707.002958333294
+                                ]
+                            },
+                            "Asokore Mampong Municipal": {
+                                "name": "Asokore Mampong Municipal",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.7121432,
+                                "longitude": -1.5685773,
+                                "north_latitude": 6.7321432,
+                                "south_latitude": 6.6921432,
+                                "west_longitude": -1.5885773,
+                                "east_longitude": -1.5485773,
+                                "coordinates": [
+                                    6.7121432,
+                                    -1.5685773,
+                                    6452.777777777782
+                                ]
+                            },
+                            "Atwima Kwanwoma": {
+                                "name": "Atwima Kwanwoma",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.7536914,
+                                "longitude": -1.6436524,
+                                "north_latitude": 6.7537414,
+                                "south_latitude": 6.7536414,
+                                "west_longitude": -1.6437024,
+                                "east_longitude": -1.6436024,
+                                "coordinates": [
+                                    6.7536914,
+                                    -1.6436524000000001,
+                                    11.042332054955692
+                                ]
+                            },
+                            "Atwima Mponua": {
+                                "name": "Atwima Mponua",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.555896300000001,
+                                "longitude": -2.176590772138429,
+                                "north_latitude": 6.7916675,
+                                "south_latitude": 6.3199106,
+                                "west_longitude": -2.4515899,
+                                "east_longitude": -1.8304472,
+                                "coordinates": [
+                                    6.55578905,
+                                    -2.14101855,
+                                    68583.24784572744
+                                ]
+                            },
+                            "Atwima Nwabiagya": {
+                                "name": "Atwima Nwabiagya",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.87764335,
+                                "longitude": -1.7448958531747312,
+                                "north_latitude": 6.9929507,
+                                "south_latitude": 6.7618338,
+                                "west_longitude": -1.8279758,
+                                "east_longitude": -1.6622653,
+                                "coordinates": [
+                                    6.87739225,
+                                    -1.74512055,
+                                    27727.804909722217
+                                ]
+                            },
+                            "Bekwai": {
+                                "name": "Bekwai",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.456707,
+                                "longitude": -1.5837496,
+                                "north_latitude": 6.496707,
+                                "south_latitude": 6.416707,
+                                "west_longitude": -1.6237496,
+                                "east_longitude": -1.5437496,
+                                "coordinates": [
+                                    6.456707,
+                                    -1.5837496,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Bosome Freho": {
+                                "name": "Bosome Freho",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.3681227,
+                                "longitude": -1.3663231268007254,
+                                "north_latitude": 6.5116445,
+                                "south_latitude": 6.1014185,
+                                "west_longitude": -1.486048,
+                                "east_longitude": -1.1778281,
+                                "coordinates": [
+                                    6.3065315,
+                                    -1.33193805,
+                                    47666.13041666664
+                                ]
+                            },
+                            "Bosomtwe": {
+                                "name": "Bosomtwe",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.56135365,
+                                "longitude": -1.4598111140617556,
+                                "north_latitude": 6.6480353,
+                                "south_latitude": 6.4746367,
+                                "west_longitude": -1.6128037,
+                                "east_longitude": -1.3085966,
+                                "coordinates": [
+                                    6.561336,
+                                    -1.46070015,
+                                    33598.84012108115
+                                ]
+                            },
+                            "Ejisu Juaben": {
+                                "name": "Ejisu Juaben",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.6202977,
+                                "longitude": -1.2878945,
+                                "north_latitude": 6.6207994,
+                                "south_latitude": 6.619557,
+                                "west_longitude": -1.2885685,
+                                "east_longitude": -1.2866932,
+                                "coordinates": [
+                                    6.6201782,
+                                    -1.28763085,
+                                    207.13319538069624
+                                ]
+                            },
+                            "Ejura Sekyedumase": {
+                                "name": "Ejura Sekyedumase",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 7.38567515,
+                                "longitude": -1.3994574721530908,
+                                "north_latitude": 7.6226954,
+                                "south_latitude": 7.1477883,
+                                "west_longitude": -1.6597799,
+                                "east_longitude": -1.144084,
+                                "coordinates": [
+                                    7.38524185,
+                                    -1.40193195,
+                                    56836.034003724984
+                                ]
+                            },
+                            "Kumasi": {
+                                "name": "Kumasi",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.6985605,
+                                "longitude": -1.6233086,
+                                "north_latitude": 6.8585605,
+                                "south_latitude": 6.5385605,
+                                "west_longitude": -1.7833086,
+                                "east_longitude": -1.4633086,
+                                "coordinates": [
+                                    6.6985605,
+                                    -1.6233086,
+                                    37622.222222222255
+                                ]
+                            },
+                            "Kwabre District": {
+                                "name": "Kwabre District",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.839980649999999,
+                                "longitude": -1.6095790017010665,
+                                "north_latitude": 6.9285389,
+                                "south_latitude": 6.7514144,
+                                "west_longitude": -1.6970712,
+                                "east_longitude": -1.524974,
+                                "coordinates": [
+                                    6.8399766500000005,
+                                    -1.6110226,
+                                    21717.400937500064
+                                ]
+                            },
+                            "Obuasi": {
+                                "name": "Obuasi",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.211542,
+                                "longitude": -1.6894045,
+                                "north_latitude": 6.371542,
+                                "south_latitude": 6.051542,
+                                "west_longitude": -1.8494045,
+                                "east_longitude": -1.5294045,
+                                "coordinates": [
+                                    6.211542,
+                                    -1.6894045,
+                                    35362.589937075274
+                                ]
+                            },
+                            "Offinso Municipal District": {
+                                "name": "Offinso Municipal District",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 7.0579412999999995,
+                                "longitude": -1.734626559874675,
+                                "north_latitude": 7.25112,
+                                "south_latitude": 6.8644223,
+                                "west_longitude": -1.870718,
+                                "east_longitude": -1.6382547,
+                                "coordinates": [
+                                    7.057771150000001,
+                                    -1.75448635,
+                                    45046.97313194445
+                                ]
+                            },
+                            "Offinso North": {
+                                "name": "Offinso North",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 7.27974815,
+                                "longitude": -1.7983274561010494,
+                                "north_latitude": 7.4767895,
+                                "south_latitude": 7.0816017,
+                                "west_longitude": -2.1408401,
+                                "east_longitude": -1.6356272,
+                                "coordinates": [
+                                    7.2791955999999995,
+                                    -1.88823365,
+                                    55699.4742373407
+                                ]
+                            },
+                            "Sekyere Afram Plains": {
+                                "name": "Sekyere Afram Plains",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 7.20286155,
+                                "longitude": -0.5920819965158615,
+                                "north_latitude": 7.5430823,
+                                "south_latitude": 6.8630313,
+                                "west_longitude": -1.2215209,
+                                "east_longitude": -0.2376072,
+                                "coordinates": [
+                                    7.203056800000001,
+                                    -0.72956405,
+                                    108459.457910659
+                                ]
+                            },
+                            "Sekyere Central": {
+                                "name": "Sekyere Central",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 7.21625465,
+                                "longitude": -1.0995560648920188,
+                                "north_latitude": 7.4892107,
+                                "south_latitude": 6.943686,
+                                "west_longitude": -1.4262882,
+                                "east_longitude": -0.8954716,
+                                "coordinates": [
+                                    7.21644835,
+                                    -1.1608798999999999,
+                                    62727.506534722284
+                                ]
+                            },
+                            "Sekyere East": {
+                                "name": "Sekyere East",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.77947295,
+                                "longitude": -1.2993541996198137,
+                                "north_latitude": 6.8988254,
+                                "south_latitude": 6.6608449,
+                                "west_longitude": -1.4494365,
+                                "east_longitude": -1.2367269,
+                                "coordinates": [
+                                    6.77983515,
+                                    -1.3430817,
+                                    28491.857048611106
+                                ]
+                            },
+                            "Sekyere South": {
+                                "name": "Sekyere South",
+                                "state": "Ashanti Region",
+                                "country": "Ghana",
+                                "latitude": 6.99532965,
+                                "longitude": -1.5029210093888472,
+                                "north_latitude": 7.1515406,
+                                "south_latitude": 6.8391866,
+                                "west_longitude": -1.6224313,
+                                "east_longitude": -1.4042516,
+                                "coordinates": [
+                                    6.995363599999999,
+                                    -1.51334145,
+                                    36771.07375
+                                ]
+                            }
+                        }
+                    },
+                    "Bono": {
+                        "name": "Bono",
+                        "country": "Ghana",
+                        "latitude": 10.4032142,
+                        "longitude": -2.7020869,
+                        "coordinates": [
+                            -2.7220869,
+                            -2.6820869,
+                            10.3832142,
+                            10.4232142
+                        ],
+                        "sub_divisions": {
+                            "Banda": {
+                                "name": "Banda",
+                                "state": "Bono",
+                                "country": "Ghana",
+                                "latitude": 8.1645269,
+                                "longitude": -2.3569966,
+                                "north_latitude": 8.1845269,
+                                "south_latitude": 8.1445269,
+                                "west_longitude": -2.3769966,
+                                "east_longitude": -2.3369966,
+                                "coordinates": [
+                                    8.1645269,
+                                    -2.3569966,
+                                    4402.494974776461
+                                ]
+                            },
+                            "Berekum": {
+                                "name": "Berekum",
+                                "state": "Bono",
+                                "country": "Ghana",
+                                "latitude": 7.450473,
+                                "longitude": -2.5824981,
+                                "north_latitude": 7.490473,
+                                "south_latitude": 7.410473,
+                                "west_longitude": -2.6224981,
+                                "east_longitude": -2.5424981,
+                                "coordinates": [
+                                    7.450473,
+                                    -2.5824981,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Dormaa": {
+                                "name": "Dormaa",
+                                "state": "Bono",
+                                "country": "Ghana",
+                                "latitude": 7.271234,
+                                "longitude": -2.873259,
+                                "north_latitude": 7.311234,
+                                "south_latitude": 7.231234,
+                                "west_longitude": -2.913259,
+                                "east_longitude": -2.833259,
+                                "coordinates": [
+                                    7.271234,
+                                    -2.873259,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Dormaa East": {
+                                "name": "Dormaa East",
+                                "state": "Bono",
+                                "country": "Ghana",
+                                "latitude": 7.264328450000001,
+                                "longitude": -2.641462953492659,
+                                "north_latitude": 7.3957413,
+                                "south_latitude": 7.1328259,
+                                "west_longitude": -2.8149698,
+                                "east_longitude": -2.4746699,
+                                "coordinates": [
+                                    7.264283600000001,
+                                    -2.64481985,
+                                    37524.82448824673
+                                ]
+                            },
+                            "Dormaa West": {
+                                "name": "Dormaa West",
+                                "state": "Bono",
+                                "country": "Ghana",
+                                "latitude": 6.97538415,
+                                "longitude": -2.9463116043167004,
+                                "north_latitude": 7.0994873,
+                                "south_latitude": 6.8513186,
+                                "west_longitude": -3.1166389,
+                                "east_longitude": -2.777428,
+                                "coordinates": [
+                                    6.975402949999999,
+                                    -2.94703345,
+                                    37429.34481894799
+                                ]
+                            },
+                            "Jaman North": {
+                                "name": "Jaman North",
+                                "state": "Bono",
+                                "country": "Ghana",
+                                "latitude": 7.9132614,
+                                "longitude": -2.6972328040066307,
+                                "north_latitude": 8.154175,
+                                "south_latitude": 7.6725599,
+                                "west_longitude": -2.8262025,
+                                "east_longitude": -2.5158959,
+                                "coordinates": [
+                                    7.913367450000001,
+                                    -2.6710491999999997,
+                                    55613.12536805555
+                                ]
+                            },
+                            "Jaman South": {
+                                "name": "Jaman South",
+                                "state": "Bono",
+                                "country": "Ghana",
+                                "latitude": 7.6203655999999995,
+                                "longitude": -2.7963718064665093,
+                                "north_latitude": 7.8255277,
+                                "south_latitude": 7.4167424,
+                                "west_longitude": -2.9368218,
+                                "east_longitude": -2.6550404,
+                                "coordinates": [
+                                    7.62113505,
+                                    -2.7959311,
+                                    47505.752493055545
+                                ]
+                            },
+                            "Sunyani": {
+                                "name": "Sunyani",
+                                "state": "Bono",
+                                "country": "Ghana",
+                                "latitude": 7.3384389,
+                                "longitude": -2.3309226,
+                                "north_latitude": 7.4984389,
+                                "south_latitude": 7.1784389,
+                                "west_longitude": -2.4909226,
+                                "east_longitude": -2.1709226,
+                                "coordinates": [
+                                    7.3384389,
+                                    -2.3309226,
+                                    37622.222222222255
+                                ]
+                            },
+                            "Sunyani West": {
+                                "name": "Sunyani West",
+                                "state": "Bono",
+                                "country": "Ghana",
+                                "latitude": 7.42413475,
+                                "longitude": -2.3305280731324864,
+                                "north_latitude": 7.6085866,
+                                "south_latitude": 7.239632,
+                                "west_longitude": -2.5414759,
+                                "east_longitude": -2.109375,
+                                "coordinates": [
+                                    7.4241093,
+                                    -2.32542545,
+                                    47624.404322029084
+                                ]
+                            },
+                            "Tain": {
+                                "name": "Tain",
+                                "state": "Bono",
+                                "country": "Ghana",
+                                "latitude": 7.9614185,
+                                "longitude": -2.1422727,
+                                "north_latitude": 8.1510519,
+                                "south_latitude": 7.7919388,
+                                "west_longitude": -2.1961452,
+                                "east_longitude": -2.1128388,
+                                "coordinates": [
+                                    7.97149535,
+                                    -2.1544920000000003,
+                                    41976.27078472233
+                                ]
+                            },
+                            "Wenchi": {
+                                "name": "Wenchi",
+                                "state": "Bono",
+                                "country": "Ghana",
+                                "latitude": 7.738011,
+                                "longitude": -2.103519,
+                                "north_latitude": 7.778011,
+                                "south_latitude": 7.698011,
+                                "west_longitude": -2.143519,
+                                "east_longitude": -2.063519,
+                                "coordinates": [
+                                    7.738011,
+                                    -2.103519,
+                                    10905.555555555564
+                                ]
+                            }
+                        }
+                    },
+                    "Bono East": {
+                        "name": "Bono East",
+                        "country": "Ghana",
+                        "latitude": 7.5598966,
+                        "longitude": -1.9862531,
+                        "coordinates": [
+                            -1.9863031,
+                            -1.9862031,
+                            7.5598466,
+                            7.5599466
+                        ],
+                        "sub_divisions": {
+                            "Atebubu-Amantin District": {
+                                "name": "Atebubu-Amantin District",
+                                "state": "Bono East",
+                                "country": "Ghana",
+                                "latitude": 7.728138599999999,
+                                "longitude": -1.0955096702738452,
+                                "north_latitude": 7.9911748,
+                                "south_latitude": 7.4644325,
+                                "west_longitude": -1.4118236,
+                                "east_longitude": -0.761958,
+                                "coordinates": [
+                                    7.72780365,
+                                    -1.0868908,
+                                    71560.05946432233
+                                ]
+                            },
+                            "Kintampo North Municipal District": {
+                                "name": "Kintampo North Municipal District",
+                                "state": "Bono East",
+                                "country": "Ghana",
+                                "latitude": 8.3892419,
+                                "longitude": -1.5793100525157426,
+                                "north_latitude": 8.7748354,
+                                "south_latitude": 8.0035511,
+                                "west_longitude": -2.0307449,
+                                "east_longitude": -1.1327202,
+                                "coordinates": [
+                                    8.38919325,
+                                    -1.5817325500000001,
+                                    98687.0263723231
+                                ]
+                            },
+                            "Kintampo South District": {
+                                "name": "Kintampo South District",
+                                "state": "Bono East",
+                                "country": "Ghana",
+                                "latitude": 7.94321545,
+                                "longitude": -1.7340051514289274,
+                                "north_latitude": 8.1579819,
+                                "south_latitude": 7.7288634,
+                                "west_longitude": -2.1217424,
+                                "east_longitude": -1.4916283,
+                                "coordinates": [
+                                    7.94342265,
+                                    -1.80668535,
+                                    69356.4677526951
+                                ]
+                            },
+                            "Nkoranza North District": {
+                                "name": "Nkoranza North District",
+                                "state": "Bono East",
+                                "country": "Ghana",
+                                "latitude": 7.7184776,
+                                "longitude": -1.6438961812284139,
+                                "north_latitude": 7.8823581,
+                                "south_latitude": 7.5546114,
+                                "west_longitude": -1.911641,
+                                "east_longitude": -1.2798348,
+                                "coordinates": [
+                                    7.71848475,
+                                    -1.5957379,
+                                    69589.86913775318
+                                ]
+                            },
+                            "Nkoranza South": {
+                                "name": "Nkoranza South",
+                                "state": "Bono East",
+                                "country": "Ghana",
+                                "latitude": 7.45296465,
+                                "longitude": -1.6770185141908458,
+                                "north_latitude": 7.5955145,
+                                "south_latitude": 7.3121564,
+                                "west_longitude": -1.8636403,
+                                "east_longitude": -1.4344187,
+                                "coordinates": [
+                                    7.45383545,
+                                    -1.6490295,
+                                    47308.500113288086
+                                ]
+                            },
+                            "Pru": {
+                                "name": "Pru",
+                                "state": "Bono East",
+                                "country": "Ghana",
+                                "latitude": 7.9636217,
+                                "longitude": -0.9549861,
+                                "north_latitude": 8.2001918,
+                                "south_latitude": 7.611296,
+                                "west_longitude": -1.3109136,
+                                "east_longitude": -0.5489303,
+                                "coordinates": [
+                                    7.905743900000001,
+                                    -0.92992195,
+                                    83862.39026252188
+                                ]
+                            },
+                            "Sene": {
+                                "name": "Sene",
+                                "state": "Bono East",
+                                "country": "Ghana",
+                                "latitude": 7.6658435,
+                                "longitude": -0.1824261724945552,
+                                "north_latitude": 8.1585322,
+                                "south_latitude": 7.1720558,
+                                "west_longitude": -0.4616293,
+                                "east_longitude": 0.2077341,
+                                "coordinates": [
+                                    7.665293999999999,
+                                    -0.1269476,
+                                    111814.00480555555
+                                ]
+                            },
+                            "Sene East": {
+                                "name": "Sene East",
+                                "state": "Bono East",
+                                "country": "Ghana",
+                                "latitude": 7.6658435,
+                                "longitude": -0.1824261724945552,
+                                "north_latitude": 8.1585322,
+                                "south_latitude": 7.1720558,
+                                "west_longitude": -0.4616293,
+                                "east_longitude": 0.2077341,
+                                "coordinates": [
+                                    7.665293999999999,
+                                    -0.1269476,
+                                    111814.00480555555
+                                ]
+                            },
+                            "Techiman Municipal": {
+                                "name": "Techiman Municipal",
+                                "state": "Bono East",
+                                "country": "Ghana",
+                                "latitude": 7.5847846,
+                                "longitude": -1.9268403,
+                                "north_latitude": 7.5848346,
+                                "south_latitude": 7.5847346,
+                                "west_longitude": -1.9268903,
+                                "east_longitude": -1.9267903,
+                                "coordinates": [
+                                    7.5847846,
+                                    -1.9268402999999998,
+                                    11.022202796441213
+                                ]
+                            },
+                            "Techiman Municipal District": {
+                                "name": "Techiman Municipal District",
+                                "state": "Bono East",
+                                "country": "Ghana",
+                                "latitude": 7.5279454,
+                                "longitude": -1.9746694050583895,
+                                "north_latitude": 7.6440059,
+                                "south_latitude": 7.412766,
+                                "west_longitude": -2.1377679,
+                                "east_longitude": -1.7743135,
+                                "coordinates": [
+                                    7.5283859500000005,
+                                    -1.9560407,
+                                    40055.15061651383
+                                ]
+                            }
+                        }
+                    },
+                    "Central Region": {
+                        "name": "Central Region",
+                        "country": "Ghana",
+                        "latitude": 5.7244148,
+                        "longitude": -1.3761749,
+                        "coordinates": [
+                            -2.205248,
+                            -0.4003287,
+                            5.0334322,
+                            6.2992662
+                        ],
+                        "sub_divisions": {
+                            "Abura/Asebu/Kwamankese": {
+                                "name": "Abura/Asebu/Kwamankese",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.2698722,
+                                "longitude": -1.188904981568721,
+                                "north_latitude": 5.418972,
+                                "south_latitude": 5.1206947,
+                                "west_longitude": -1.3101617,
+                                "east_longitude": -1.0519792,
+                                "coordinates": [
+                                    5.26983335,
+                                    -1.18107045,
+                                    35204.06332638895
+                                ]
+                            },
+                            "Agona East": {
+                                "name": "Agona East",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.635535750000001,
+                                "longitude": -0.6547573577499961,
+                                "north_latitude": 5.7396591,
+                                "south_latitude": 5.5312273,
+                                "west_longitude": -0.7622409,
+                                "east_longitude": -0.5598521,
+                                "coordinates": [
+                                    5.6354432,
+                                    -0.6610465,
+                                    25202.512180555514
+                                ]
+                            },
+                            "Agona West": {
+                                "name": "Agona West",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.628765700000001,
+                                "longitude": -0.8027263509107365,
+                                "north_latitude": 5.7585534,
+                                "south_latitude": 5.4990319,
+                                "west_longitude": -0.9012328,
+                                "east_longitude": -0.6578847,
+                                "coordinates": [
+                                    5.62879265,
+                                    -0.77955875,
+                                    30889.789201388885
+                                ]
+                            },
+                            "Ajumako/Enyan/Essiam": {
+                                "name": "Ajumako/Enyan/Essiam",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.41243515,
+                                "longitude": -0.9848010590199887,
+                                "north_latitude": 5.5378121,
+                                "south_latitude": 5.286994,
+                                "west_longitude": -1.1232764,
+                                "east_longitude": -0.8533502,
+                                "coordinates": [
+                                    5.41240305,
+                                    -0.9883133,
+                                    29874.338546387946
+                                ]
+                            },
+                            "Asikuma/Odoben/Brakwa": {
+                                "name": "Asikuma/Odoben/Brakwa",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.62649825,
+                                "longitude": -1.0255187642631112,
+                                "north_latitude": 5.7524261,
+                                "south_latitude": 5.5005207,
+                                "west_longitude": -1.1731769,
+                                "east_longitude": -0.8572146,
+                                "coordinates": [
+                                    5.6264734,
+                                    -1.0151957500000002,
+                                    34956.482608049264
+                                ]
+                            },
+                            "Assin South": {
+                                "name": "Assin South",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.5288964499999995,
+                                "longitude": -1.2709401638536044,
+                                "north_latitude": 5.7188783,
+                                "south_latitude": 5.3389342,
+                                "west_longitude": -1.4445817,
+                                "east_longitude": -1.0634518,
+                                "coordinates": [
+                                    5.52890625,
+                                    -1.25401675,
+                                    42168.778602114005
+                                ]
+                            },
+                            "Awutu Senya": {
+                                "name": "Awutu Senya",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.40379055,
+                                "longitude": -0.5181576869474314,
+                                "north_latitude": 5.6261506,
+                                "south_latitude": 5.364903,
+                                "west_longitude": -0.5593162,
+                                "east_longitude": -0.4144147,
+                                "coordinates": [
+                                    5.4955268,
+                                    -0.48686545000000003,
+                                    31081.937694444434
+                                ]
+                            },
+                            "Awutu Senya East Municipal": {
+                                "name": "Awutu Senya East Municipal",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.40379055,
+                                "longitude": -0.5181576869474314,
+                                "north_latitude": 5.6261506,
+                                "south_latitude": 5.364903,
+                                "west_longitude": -0.5593162,
+                                "east_longitude": -0.4144147,
+                                "coordinates": [
+                                    5.4955268,
+                                    -0.48686545000000003,
+                                    31081.937694444434
+                                ]
+                            },
+                            "Cape Coast": {
+                                "name": "Cape Coast",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.107467,
+                                "longitude": -1.2430793,
+                                "north_latitude": 5.267467,
+                                "south_latitude": 4.947467,
+                                "west_longitude": -1.4030793,
+                                "east_longitude": -1.0830793,
+                                "coordinates": [
+                                    5.107467,
+                                    -1.2430793,
+                                    37622.222222222255
+                                ]
+                            },
+                            "Effutu": {
+                                "name": "Effutu",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.38339225,
+                                "longitude": -0.597395635326539,
+                                "north_latitude": 5.4422542,
+                                "south_latitude": 5.3243587,
+                                "west_longitude": -0.6741325,
+                                "east_longitude": -0.5488767,
+                                "coordinates": [
+                                    5.38330645,
+                                    -0.6115046,
+                                    13865.026985638824
+                                ]
+                            },
+                            "Ekumfi": {
+                                "name": "Ekumfi",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.238864,
+                                "longitude": -0.9121981,
+                                "north_latitude": 5.258864,
+                                "south_latitude": 5.218864,
+                                "west_longitude": -0.9321981,
+                                "east_longitude": -0.8921981,
+                                "coordinates": [
+                                    5.2388639999999995,
+                                    -0.9121981,
+                                    6452.777777777782
+                                ]
+                            },
+                            "Gomoa East": {
+                                "name": "Gomoa East",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.4769936999999995,
+                                "longitude": -0.5897459891005346,
+                                "north_latitude": 5.583499,
+                                "south_latitude": 5.3695964,
+                                "west_longitude": -0.7799116,
+                                "east_longitude": -0.4003287,
+                                "coordinates": [
+                                    5.476547699999999,
+                                    -0.59012015,
+                                    42007.43673038379
+                                ]
+                            },
+                            "Gomoa West": {
+                                "name": "Gomoa West",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.38725545,
+                                "longitude": -0.8336385708212686,
+                                "north_latitude": 5.5502097,
+                                "south_latitude": 5.223098,
+                                "west_longitude": -0.9189086,
+                                "east_longitude": -0.7441085,
+                                "coordinates": [
+                                    5.38665385,
+                                    -0.8315085499999999,
+                                    38413.89271527774
+                                ]
+                            },
+                            "Komenda/Edina/Eguafo/Abirem": {
+                                "name": "Komenda/Edina/Eguafo/Abirem",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.1302015,
+                                "longitude": -1.4399592897951643,
+                                "north_latitude": 5.2268711,
+                                "south_latitude": 5.0334322,
+                                "west_longitude": -1.5807277,
+                                "east_longitude": -1.2961943,
+                                "coordinates": [
+                                    5.13015165,
+                                    -1.438461,
+                                    31507.110095764205
+                                ]
+                            },
+                            "Mfantsiman Municipal District": {
+                                "name": "Mfantsiman Municipal District",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.27644145,
+                                "longitude": -1.0347208987827945,
+                                "north_latitude": 5.4204897,
+                                "south_latitude": 5.1328347,
+                                "west_longitude": -1.2336338,
+                                "east_longitude": -1.0044256,
+                                "coordinates": [
+                                    5.2766622000000005,
+                                    -1.1190297,
+                                    34021.59479166666
+                                ]
+                            },
+                            "Twifo Ati-Morkwa": {
+                                "name": "Twifo Ati-Morkwa",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.61529845,
+                                "longitude": -1.57822136908747,
+                                "north_latitude": 5.6180092,
+                                "south_latitude": 5.6120352,
+                                "west_longitude": -1.5815163,
+                                "east_longitude": -1.5744352,
+                                "coordinates": [
+                                    5.6150222,
+                                    -1.57797575,
+                                    783.6003443377672
+                                ]
+                            },
+                            "Twifo Hemang Lower Denkyira": {
+                                "name": "Twifo Hemang Lower Denkyira",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.3782841999999995,
+                                "longitude": -1.400909488533831,
+                                "north_latitude": 5.5414425,
+                                "south_latitude": 5.2141484,
+                                "west_longitude": -1.6291141,
+                                "east_longitude": -1.285635,
+                                "coordinates": [
+                                    5.37779545,
+                                    -1.45737455,
+                                    38014.64199682811
+                                ]
+                            },
+                            "Upper Denkyira East": {
+                                "name": "Upper Denkyira East",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 5.835234249999999,
+                                "longitude": -1.7392083577729605,
+                                "north_latitude": 5.9902892,
+                                "south_latitude": 5.6809454,
+                                "west_longitude": -1.8946268,
+                                "east_longitude": -1.5592294,
+                                "coordinates": [
+                                    5.8356173,
+                                    -1.7269280999999999,
+                                    37090.846353649045
+                                ]
+                            },
+                            "Upper Denkyira West": {
+                                "name": "Upper Denkyira West",
+                                "state": "Central Region",
+                                "country": "Ghana",
+                                "latitude": 6.10783305,
+                                "longitude": -2.069310712663536,
+                                "north_latitude": 6.2992662,
+                                "south_latitude": 5.9170932,
+                                "west_longitude": -2.205248,
+                                "east_longitude": -1.7920284,
+                                "coordinates": [
+                                    6.1081797,
+                                    -1.9986382,
+                                    45670.50612679395
+                                ]
+                            }
+                        }
+                    },
+                    "Eastern Region": {
+                        "name": "Eastern Region",
+                        "country": "Ghana",
+                        "latitude": 6.446877,
+                        "longitude": -0.3770964,
+                        "coordinates": [
+                            -1.247071,
+                            0.216577,
+                            5.7008431,
+                            7.2128378
+                        ],
+                        "sub_divisions": {
+                            "Akuapim North": {
+                                "name": "Akuapim North",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 5.94948855,
+                                "longitude": -0.2065929069518217,
+                                "north_latitude": 6.047981,
+                                "south_latitude": 5.8510101,
+                                "west_longitude": -0.3024124,
+                                "east_longitude": -0.004077,
+                                "coordinates": [
+                                    5.94949555,
+                                    -0.1532447,
+                                    32988.74025927661
+                                ]
+                            },
+                            "Akuapim South": {
+                                "name": "Akuapim South",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 5.84176355,
+                                "longitude": -0.21765978612421655,
+                                "north_latitude": 5.9427913,
+                                "south_latitude": 5.7403708,
+                                "west_longitude": -0.3403616,
+                                "east_longitude": -0.1438952,
+                                "coordinates": [
+                                    5.84158105,
+                                    -0.2421284,
+                                    24533.33760416663
+                                ]
+                            },
+                            "Akyemansa": {
+                                "name": "Akyemansa",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.0815994,
+                                "longitude": -1.1154643957994261,
+                                "north_latitude": 6.229443,
+                                "south_latitude": 5.9335025,
+                                "west_longitude": -1.247071,
+                                "east_longitude": -0.9518477,
+                                "coordinates": [
+                                    6.08147275,
+                                    -1.09945935,
+                                    34943.93204861105
+                                ]
+                            },
+                            "Asuogyaman": {
+                                "name": "Asuogyaman",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.36279085,
+                                "longitude": 0.09525987074856489,
+                                "north_latitude": 6.577098,
+                                "south_latitude": 6.1479578,
+                                "west_longitude": -0.0170859,
+                                "east_longitude": 0.216577,
+                                "coordinates": [
+                                    6.3625279,
+                                    0.09974554999999999,
+                                    49771.64865277778
+                                ]
+                            },
+                            "Atiwa": {
+                                "name": "Atiwa",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.3954833,
+                                "longitude": -0.5972962333595152,
+                                "north_latitude": 6.5125533,
+                                "south_latitude": 6.278577,
+                                "west_longitude": -0.8866855,
+                                "east_longitude": -0.460804,
+                                "coordinates": [
+                                    6.39556515,
+                                    -0.67374475,
+                                    47050.27616608888
+                                ]
+                            },
+                            "Ayensuano": {
+                                "name": "Ayensuano",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 5.94469995,
+                                "longitude": -0.4499371931032161,
+                                "north_latitude": 6.0597928,
+                                "south_latitude": 5.8296785,
+                                "west_longitude": -0.6511988,
+                                "east_longitude": -0.2905369,
+                                "coordinates": [
+                                    5.94473565,
+                                    -0.47086785,
+                                    39879.68445152199
+                                ]
+                            },
+                            "Birim Central": {
+                                "name": "Birim Central",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 5.973917350000001,
+                                "longitude": -1.0048095949359637,
+                                "north_latitude": 6.0474001,
+                                "south_latitude": 5.9007438,
+                                "west_longitude": -1.0775333,
+                                "east_longitude": -0.9402713,
+                                "coordinates": [
+                                    5.97407195,
+                                    -1.0089023,
+                                    18325.697840277786
+                                ]
+                            },
+                            "Birim North": {
+                                "name": "Birim North",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.3681437,
+                                "longitude": -1.0227179329305507,
+                                "north_latitude": 6.5399742,
+                                "south_latitude": 6.1962954,
+                                "west_longitude": -1.1387813,
+                                "east_longitude": -0.819034,
+                                "coordinates": [
+                                    6.3681348,
+                                    -0.97890765,
+                                    40258.133083333254
+                                ]
+                            },
+                            "Birim South": {
+                                "name": "Birim South",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 5.9006620000000005,
+                                "longitude": -1.0300023002970835,
+                                "north_latitude": 5.9772803,
+                                "south_latitude": 5.823947,
+                                "west_longitude": -1.2254043,
+                                "east_longitude": -0.8723882,
+                                "coordinates": [
+                                    5.90061365,
+                                    -1.0488962499999999,
+                                    39040.187974432585
+                                ]
+                            },
+                            "Denkyembour": {
+                                "name": "Denkyembour",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.056189,
+                                "longitude": -0.8145345635483456,
+                                "north_latitude": 6.1632787,
+                                "south_latitude": 5.9490833,
+                                "west_longitude": -0.9795703,
+                                "east_longitude": -0.649688,
+                                "coordinates": [
+                                    6.0561810000000005,
+                                    -0.81462915,
+                                    36469.21976413267
+                                ]
+                            },
+                            "Fanteakwa": {
+                                "name": "Fanteakwa",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.497616949999999,
+                                "longitude": -0.36254605032666193,
+                                "north_latitude": 6.6652044,
+                                "south_latitude": 6.329962,
+                                "west_longitude": -0.5445979,
+                                "east_longitude": -0.1578144,
+                                "coordinates": [
+                                    6.4975832,
+                                    -0.35120615,
+                                    42717.683159139626
+                                ]
+                            },
+                            "Kwaebibirem": {
+                                "name": "Kwaebibirem",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.2335975999999995,
+                                "longitude": -0.87590978580917,
+                                "north_latitude": 6.3920955,
+                                "south_latitude": 6.0748992,
+                                "west_longitude": -1.0326135,
+                                "east_longitude": -0.6174224,
+                                "coordinates": [
+                                    6.23349735,
+                                    -0.8250179500000001,
+                                    45880.13606615288
+                                ]
+                            },
+                            "Kwahu Afram Plains South": {
+                                "name": "Kwahu Afram Plains South",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.8854777,
+                                "longitude": -0.46038029006542325,
+                                "north_latitude": 7.2128378,
+                                "south_latitude": 6.5572653,
+                                "west_longitude": -0.7571678,
+                                "east_longitude": -0.0711579,
+                                "coordinates": [
+                                    6.88505155,
+                                    -0.41416284999999997,
+                                    75677.17940608833
+                                ]
+                            },
+                            "Kwahu East": {
+                                "name": "Kwahu East",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.73342465,
+                                "longitude": -0.8100945984641604,
+                                "north_latitude": 6.8765051,
+                                "south_latitude": 6.5908103,
+                                "west_longitude": -0.985096,
+                                "east_longitude": -0.6234312,
+                                "coordinates": [
+                                    6.7336577,
+                                    -0.8042636,
+                                    39926.00310264592
+                                ]
+                            },
+                            "Kwahu South": {
+                                "name": "Kwahu South",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.627864499999999,
+                                "longitude": -0.5910773054110778,
+                                "north_latitude": 6.76498,
+                                "south_latitude": 6.4906282,
+                                "west_longitude": -0.8225726,
+                                "east_longitude": -0.3316691,
+                                "coordinates": [
+                                    6.6278041000000005,
+                                    -0.57712085,
+                                    54205.93432102014
+                                ]
+                            },
+                            "Kwahu West": {
+                                "name": "Kwahu West",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.4911825499999996,
+                                "longitude": -0.7284560879725313,
+                                "north_latitude": 6.6137289,
+                                "south_latitude": 6.3688515,
+                                "west_longitude": -0.9662128,
+                                "east_longitude": -0.5927332,
+                                "coordinates": [
+                                    6.4912902,
+                                    -0.779473,
+                                    41252.66914523466
+                                ]
+                            },
+                            "Lower Manya Krobo": {
+                                "name": "Lower Manya Krobo",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.2127831,
+                                "longitude": -0.04049756901746268,
+                                "north_latitude": 6.3320584,
+                                "south_latitude": 6.0930249,
+                                "west_longitude": -0.0900324,
+                                "east_longitude": 0.1445844,
+                                "coordinates": [
+                                    6.21254165,
+                                    0.027276,
+                                    28609.076423611175
+                                ]
+                            },
+                            "New Juaben": {
+                                "name": "New Juaben",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.0899008,
+                                "longitude": -0.2652968,
+                                "north_latitude": 6.0899508,
+                                "south_latitude": 6.0898508,
+                                "west_longitude": -0.2653468,
+                                "east_longitude": -0.2652468,
+                                "coordinates": [
+                                    6.089900800000001,
+                                    -0.2652968,
+                                    2011.1319444445173
+                                ]
+                            },
+                            "Nsawam Adoagyiri": {
+                                "name": "Nsawam Adoagyiri",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 5.8064741,
+                                "longitude": -0.35387208041308893,
+                                "north_latitude": 5.806863,
+                                "south_latitude": 5.8061525,
+                                "west_longitude": -0.3544392,
+                                "east_longitude": -0.3533408,
+                                "coordinates": [
+                                    5.80650775,
+                                    -0.35389000000000004,
+                                    121.50977578230898
+                                ]
+                            },
+                            "Upper Manya Krobo": {
+                                "name": "Upper Manya Krobo",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.40201115,
+                                "longitude": -0.13442938614610817,
+                                "north_latitude": 6.5941214,
+                                "south_latitude": 6.2097097,
+                                "west_longitude": -0.3094674,
+                                "east_longitude": 0.0814808,
+                                "coordinates": [
+                                    6.40191555,
+                                    -0.11399329999999999,
+                                    43183.87330615242
+                                ]
+                            },
+                            "Upper West Akim": {
+                                "name": "Upper West Akim",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 5.80678025,
+                                "longitude": -0.5400571961992242,
+                                "north_latitude": 5.8920462,
+                                "south_latitude": 5.7216392,
+                                "west_longitude": -0.7081465,
+                                "east_longitude": -0.4153537,
+                                "coordinates": [
+                                    5.806842700000001,
+                                    -0.5617501,
+                                    32385.0774097055
+                                ]
+                            },
+                            "West Akim": {
+                                "name": "West Akim",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 5.9070609,
+                                "longitude": -0.6831805475792303,
+                                "north_latitude": 6.0496147,
+                                "south_latitude": 5.7643482,
+                                "west_longitude": -0.8167166,
+                                "east_longitude": -0.557536,
+                                "coordinates": [
+                                    5.90698145,
+                                    -0.6871263000000001,
+                                    33755.70829861117
+                                ]
+                            },
+                            "Yilo Krobo": {
+                                "name": "Yilo Krobo",
+                                "state": "Eastern Region",
+                                "country": "Ghana",
+                                "latitude": 6.1564095000000005,
+                                "longitude": -0.16740177975580778,
+                                "north_latitude": 6.3059736,
+                                "south_latitude": 6.0076241,
+                                "west_longitude": -0.3605834,
+                                "east_longitude": 0.1497316,
+                                "coordinates": [
+                                    6.1567988499999995,
+                                    -0.1054259,
+                                    56401.10728823166
+                                ]
+                            }
+                        }
+                    },
+                    "Greater Accra Region": {
+                        "name": "Greater Accra Region",
+                        "country": "Ghana",
+                        "latitude": 5.8101532,
+                        "longitude": 0.0995242,
+                        "coordinates": [
+                            -0.5197049,
+                            0.6722593,
+                            5.4706519,
+                            6.1076145
+                        ],
+                        "sub_divisions": {
+                            "Accra": {
+                                "name": "Accra",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.5571096,
+                                "longitude": -0.2012376,
+                                "north_latitude": 5.6673682,
+                                "south_latitude": 5.5171908,
+                                "west_longitude": -0.2841318,
+                                "east_longitude": -0.0548565,
+                                "coordinates": [
+                                    5.5922795,
+                                    -0.16949415,
+                                    25369.633617121086
+                                ]
+                            },
+                            "Ada East": {
+                                "name": "Ada East",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.8761016,
+                                "longitude": 0.5495681616300845,
+                                "north_latitude": 5.9825278,
+                                "south_latitude": 5.769727,
+                                "west_longitude": 0.4629707,
+                                "east_longitude": 0.6722593,
+                                "coordinates": [
+                                    5.8761274,
+                                    0.567615,
+                                    25688.866833333344
+                                ]
+                            },
+                            "Ada West": {
+                                "name": "Ada West",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.9040093,
+                                "longitude": 0.42037025702696884,
+                                "north_latitude": 6.00963,
+                                "south_latitude": 5.7824509,
+                                "west_longitude": 0.3200975,
+                                "east_longitude": 0.5073023,
+                                "coordinates": [
+                                    5.896040449999999,
+                                    0.4136999,
+                                    27289.45120138887
+                                ]
+                            },
+                            "Adenta": {
+                                "name": "Adenta",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.7042433,
+                                "longitude": -0.1690967,
+                                "north_latitude": 5.7442433,
+                                "south_latitude": 5.6642433,
+                                "west_longitude": -0.2090967,
+                                "east_longitude": -0.1290967,
+                                "coordinates": [
+                                    5.7042433,
+                                    -0.1690967,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Ashaiman": {
+                                "name": "Ashaiman",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.694385,
+                                "longitude": -0.029529,
+                                "north_latitude": 5.734385,
+                                "south_latitude": 5.654385,
+                                "west_longitude": -0.069529,
+                                "east_longitude": 0.010471,
+                                "coordinates": [
+                                    5.6943850000000005,
+                                    -0.029528999999999996,
+                                    8851.07867371288
+                                ]
+                            },
+                            "Ga Central Municipal Assembly": {
+                                "name": "Ga Central Municipal Assembly",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.6098484,
+                                "longitude": -0.2876956,
+                                "north_latitude": 5.6098984,
+                                "south_latitude": 5.6097984,
+                                "west_longitude": -0.2877456,
+                                "east_longitude": -0.2876456,
+                                "coordinates": [
+                                    5.6098484,
+                                    -0.2876956,
+                                    11.066236151679682
+                                ]
+                            },
+                            "Ga East": {
+                                "name": "Ga East",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.7086577,
+                                "longitude": -0.2208075836876517,
+                                "north_latitude": 5.791326,
+                                "south_latitude": 5.6269166,
+                                "west_longitude": -0.2617729,
+                                "east_longitude": -0.1770473,
+                                "coordinates": [
+                                    5.7091213,
+                                    -0.2194101,
+                                    20301.963069444373
+                                ]
+                            },
+                            "Ga South": {
+                                "name": "Ga South",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.61002785,
+                                "longitude": -0.3928423417889605,
+                                "north_latitude": 5.7489034,
+                                "south_latitude": 5.4706519,
+                                "west_longitude": -0.5197049,
+                                "east_longitude": -0.3131104,
+                                "coordinates": [
+                                    5.60977765,
+                                    -0.41640765,
+                                    32974.80239583329
+                                ]
+                            },
+                            "Ga West": {
+                                "name": "Ga West",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.70697105,
+                                "longitude": -0.34976355190147446,
+                                "north_latitude": 5.8082403,
+                                "south_latitude": 5.6064189,
+                                "west_longitude": -0.4925528,
+                                "east_longitude": -0.2338243,
+                                "coordinates": [
+                                    5.7073296,
+                                    -0.36318855,
+                                    28621.59974474547
+                                ]
+                            },
+                            "Kpone Katamanso": {
+                                "name": "Kpone Katamanso",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.77159775,
+                                "longitude": -0.07336510540894667,
+                                "north_latitude": 5.878759,
+                                "south_latitude": 5.6646298,
+                                "west_longitude": -0.1641512,
+                                "east_longitude": 0.0725054,
+                                "coordinates": [
+                                    5.7716943999999994,
+                                    -0.0458229,
+                                    26176.618847622278
+                                ]
+                            },
+                            "La Dade Kotopon": {
+                                "name": "La Dade Kotopon",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.5899619000000005,
+                                "longitude": -0.1568957228668052,
+                                "north_latitude": 5.6291722,
+                                "south_latitude": 5.5500602,
+                                "west_longitude": -0.1902759,
+                                "east_longitude": -0.1305485,
+                                "coordinates": [
+                                    5.5896162,
+                                    -0.1604122,
+                                    10806.70388888892
+                                ]
+                            },
+                            "La Nkwantanang Madina": {
+                                "name": "La Nkwantanang Madina",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.74468145,
+                                "longitude": -0.1725086994008766,
+                                "north_latitude": 5.8231745,
+                                "south_latitude": 5.6591207,
+                                "west_longitude": -0.2054143,
+                                "east_longitude": -0.1227594,
+                                "coordinates": [
+                                    5.7411476,
+                                    -0.16408685,
+                                    20262.377875000053
+                                ]
+                            },
+                            "Ningo Prampram": {
+                                "name": "Ningo Prampram",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.8117696500000005,
+                                "longitude": 0.1461109550052391,
+                                "north_latitude": 5.9356827,
+                                "south_latitude": 5.6939799,
+                                "west_longitude": -0.0710249,
+                                "east_longitude": 0.3588366,
+                                "coordinates": [
+                                    5.8148313,
+                                    0.14390585,
+                                    47542.15185745432
+                                ]
+                            },
+                            "Shai Osudoku District": {
+                                "name": "Shai Osudoku District",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.95875335,
+                                "longitude": 0.16187232840156757,
+                                "north_latitude": 6.1076145,
+                                "south_latitude": 5.8150625,
+                                "west_longitude": -0.1188326,
+                                "east_longitude": 0.3503608,
+                                "coordinates": [
+                                    5.9613385,
+                                    0.11576409999999998,
+                                    51875.78809182255
+                                ]
+                            },
+                            "Tema Metropolitan District": {
+                                "name": "Tema Metropolitan District",
+                                "state": "Greater Accra Region",
+                                "country": "Ghana",
+                                "latitude": 5.64889865,
+                                "longitude": -0.0022429505751959643,
+                                "north_latitude": 5.6907865,
+                                "south_latitude": 5.6044925,
+                                "west_longitude": -0.0420142,
+                                "east_longitude": 0.0436702,
+                                "coordinates": [
+                                    5.6476395,
+                                    0.0008279999999999989,
+                                    11606.20013888885
+                                ]
+                            }
+                        }
+                    },
+                    "North East": {
+                        "name": "North East",
+                        "country": "Ghana",
+                        "latitude": 0.0463057,
+                        "longitude": 37.6542369,
+                        "coordinates": [
+                            37.6526128,
+                            37.6552682,
+                            0.0459985,
+                            0.0463875
+                        ],
+                        "sub_divisions": {
+                            "Bunkpurugu-Yunyoo": {
+                                "name": "Bunkpurugu-Yunyoo",
+                                "state": "North East",
+                                "country": "Ghana",
+                                "latitude": 10.5218799,
+                                "longitude": 0.08716481367149873,
+                                "north_latitude": 10.5244485,
+                                "south_latitude": 10.5199707,
+                                "west_longitude": 0.0844467,
+                                "east_longitude": 0.0901088,
+                                "coordinates": [
+                                    10.5222096,
+                                    0.08727775,
+                                    619.0051231161096
+                                ]
+                            },
+                            "Chereponi": {
+                                "name": "Chereponi",
+                                "state": "North East",
+                                "country": "Ghana",
+                                "latitude": 10.137547,
+                                "longitude": 0.2910324,
+                                "north_latitude": 10.177547,
+                                "south_latitude": 10.097547,
+                                "west_longitude": 0.2510324,
+                                "east_longitude": 0.3310324,
+                                "coordinates": [
+                                    10.137547000000001,
+                                    0.29103239999999997,
+                                    10905.555555555564
+                                ]
+                            },
+                            "East Mamprusi": {
+                                "name": "East Mamprusi",
+                                "state": "North East",
+                                "country": "Ghana",
+                                "latitude": 10.45279035,
+                                "longitude": -0.4166786510297047,
+                                "north_latitude": 10.6439433,
+                                "south_latitude": 10.2617196,
+                                "west_longitude": -0.6704821,
+                                "east_longitude": -0.0036133,
+                                "coordinates": [
+                                    10.45283145,
+                                    -0.3370477,
+                                    72876.55897352178
+                                ]
+                            },
+                            "Mamprugo Moaduri District": {
+                                "name": "Mamprugo Moaduri District",
+                                "state": "North East",
+                                "country": "Ghana",
+                                "latitude": 10.257381500000001,
+                                "longitude": -1.3172833809445996,
+                                "north_latitude": 10.4884549,
+                                "south_latitude": 10.0261197,
+                                "west_longitude": -1.6631091,
+                                "east_longitude": -1.0043297,
+                                "coordinates": [
+                                    10.257287300000002,
+                                    -1.3337194,
+                                    72028.98844207646
+                                ]
+                            },
+                            "West Mamprusi": {
+                                "name": "West Mamprusi",
+                                "state": "North East",
+                                "country": "Ghana",
+                                "latitude": 10.29738455,
+                                "longitude": -0.7640550361108249,
+                                "north_latitude": 10.6521044,
+                                "south_latitude": 9.942773,
+                                "west_longitude": -1.093626,
+                                "east_longitude": -0.4970249,
+                                "coordinates": [
+                                    10.2974387,
+                                    -0.79532545,
+                                    80962.377375
+                                ]
+                            }
+                        }
+                    },
+                    "Northern Region": {
+                        "name": "Northern Region",
+                        "country": "Ghana",
+                        "latitude": 9.6600005,
+                        "longitude": -0.3943799,
+                        "coordinates": [
+                            -1.3736344,
+                            0.5670034,
+                            8.2284806,
+                            10.3590168
+                        ],
+                        "sub_divisions": {
+                            "Gushiegu": {
+                                "name": "Gushiegu",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 9.9185016,
+                                "longitude": -0.2164706,
+                                "north_latitude": 9.9585016,
+                                "south_latitude": 9.8785016,
+                                "west_longitude": -0.2564706,
+                                "east_longitude": -0.1764706,
+                                "coordinates": [
+                                    9.918501599999999,
+                                    -0.2164706,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Karaga": {
+                                "name": "Karaga",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 9.9267799,
+                                "longitude": -0.4316607,
+                                "north_latitude": 9.9667799,
+                                "south_latitude": 9.8867799,
+                                "west_longitude": -0.4716607,
+                                "east_longitude": -0.3916607,
+                                "coordinates": [
+                                    9.9267799,
+                                    -0.4316607,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Kpandai": {
+                                "name": "Kpandai",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 8.4635789,
+                                "longitude": -0.0119853,
+                                "north_latitude": 8.5035789,
+                                "south_latitude": 8.4235789,
+                                "west_longitude": -0.0519853,
+                                "east_longitude": 0.0280147,
+                                "coordinates": [
+                                    8.463578900000002,
+                                    -0.011985299999999999,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Mion": {
+                                "name": "Mion",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 9.452849050000001,
+                                "longitude": -0.3355255118428331,
+                                "north_latitude": 9.8030731,
+                                "south_latitude": 9.0989654,
+                                "west_longitude": -0.612507,
+                                "east_longitude": 0.175251,
+                                "coordinates": [
+                                    9.451019250000002,
+                                    -0.21862800000000002,
+                                    86315.7025676766
+                                ]
+                            },
+                            "Nanumba South": {
+                                "name": "Nanumba South",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 8.766379350000001,
+                                "longitude": 0.05497418228486124,
+                                "north_latitude": 9.0070708,
+                                "south_latitude": 8.5256594,
+                                "west_longitude": -0.3636159,
+                                "east_longitude": 0.40092,
+                                "coordinates": [
+                                    8.7663651,
+                                    0.018652050000000003,
+                                    83964.22637022633
+                                ]
+                            },
+                            "Saboba": {
+                                "name": "Saboba",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 9.7048701,
+                                "longitude": 0.3166454,
+                                "north_latitude": 9.7448701,
+                                "south_latitude": 9.6648701,
+                                "west_longitude": 0.2766454,
+                                "east_longitude": 0.3566454,
+                                "coordinates": [
+                                    9.7048701,
+                                    0.31664539999999997,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Savelugu/Nanton": {
+                                "name": "Savelugu/Nanton",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 9.63658295,
+                                "longitude": -0.8291717782624299,
+                                "north_latitude": 9.6394283,
+                                "south_latitude": 9.6337336,
+                                "west_longitude": -0.8314432,
+                                "east_longitude": -0.8270082,
+                                "coordinates": [
+                                    9.636580949999999,
+                                    -0.8292257000000001,
+                                    2633.930840277907
+                                ]
+                            },
+                            "Tamale": {
+                                "name": "Tamale",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 9.4051992,
+                                "longitude": -0.8423986,
+                                "north_latitude": 9.5651992,
+                                "south_latitude": 9.2451992,
+                                "west_longitude": -1.0023986,
+                                "east_longitude": -0.6823986,
+                                "coordinates": [
+                                    9.4051992,
+                                    -0.8423986,
+                                    37622.222222222255
+                                ]
+                            },
+                            "Tatale": {
+                                "name": "Tatale",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 9.3566595,
+                                "longitude": 0.5266001,
+                                "north_latitude": 9.3966595,
+                                "south_latitude": 9.3166595,
+                                "west_longitude": 0.4866001,
+                                "east_longitude": 0.5666001,
+                                "coordinates": [
+                                    9.3566595,
+                                    0.5266001,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Tolon/Kumbungu": {
+                                "name": "Tolon/Kumbungu",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 9.4897845,
+                                "longitude": -1.0071133,
+                                "north_latitude": 9.5614029,
+                                "south_latitude": 9.4302416,
+                                "west_longitude": -1.0657341,
+                                "east_longitude": -0.9529262,
+                                "coordinates": [
+                                    9.49582225,
+                                    -1.00933015,
+                                    16600.803048610967
+                                ]
+                            },
+                            "Yendi": {
+                                "name": "Yendi",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 9.4466478,
+                                "longitude": -0.0035068,
+                                "north_latitude": 9.4866478,
+                                "south_latitude": 9.4066478,
+                                "west_longitude": -0.0435068,
+                                "east_longitude": 0.0364932,
+                                "coordinates": [
+                                    9.446647800000001,
+                                    -0.0035067999999999974,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Zabzugu/Tatale": {
+                                "name": "Zabzugu/Tatale",
+                                "state": "Northern Region",
+                                "country": "Ghana",
+                                "latitude": 9.2640387,
+                                "longitude": 0.4837627,
+                                "north_latitude": 9.2640853,
+                                "south_latitude": 9.2640248,
+                                "west_longitude": 0.483699,
+                                "east_longitude": 0.4837963,
+                                "coordinates": [
+                                    9.26405505,
+                                    0.48374765,
+                                    10.678148730482274
+                                ]
+                            }
+                        }
+                    },
+                    "Oti": {
+                        "name": "Oti",
+                        "country": "Ghana",
+                        "latitude": 6.6880553,
+                        "longitude": -1.6148887,
+                        "coordinates": [
+                            -1.6153206,
+                            -1.6142195,
+                            6.6866015,
+                            6.6891496
+                        ],
+                        "sub_divisions": {
+                            "Biakoye": {
+                                "name": "Biakoye",
+                                "state": "Oti",
+                                "country": "Ghana",
+                                "latitude": 7.39217985,
+                                "longitude": 0.26297363921009864,
+                                "north_latitude": 7.695062,
+                                "south_latitude": 7.0892034,
+                                "west_longitude": 0.1726054,
+                                "east_longitude": 0.4794198,
+                                "coordinates": [
+                                    7.3921326999999994,
+                                    0.3260126,
+                                    69443.84276388893
+                                ]
+                            },
+                            "Jasikan": {
+                                "name": "Jasikan",
+                                "state": "Oti",
+                                "country": "Ghana",
+                                "latitude": 7.411211,
+                                "longitude": 0.470569,
+                                "north_latitude": 7.451211,
+                                "south_latitude": 7.371211,
+                                "west_longitude": 0.430569,
+                                "east_longitude": 0.510569,
+                                "coordinates": [
+                                    7.411211,
+                                    0.470569,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Kadjebi": {
+                                "name": "Kadjebi",
+                                "state": "Oti",
+                                "country": "Ghana",
+                                "latitude": 7.525931,
+                                "longitude": 0.476103,
+                                "north_latitude": 7.565931,
+                                "south_latitude": 7.485931,
+                                "west_longitude": 0.436103,
+                                "east_longitude": 0.516103,
+                                "coordinates": [
+                                    7.525931,
+                                    0.476103,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Krachi East": {
+                                "name": "Krachi East",
+                                "state": "Oti",
+                                "country": "Ghana",
+                                "latitude": 8.04337735,
+                                "longitude": 0.1960006661076935,
+                                "north_latitude": 8.0445778,
+                                "south_latitude": 8.0424212,
+                                "west_longitude": 0.1946801,
+                                "east_longitude": 0.1970834,
+                                "coordinates": [
+                                    8.0434995,
+                                    0.19588175,
+                                    264.6050403438588
+                                ]
+                            },
+                            "Krachi Nchumuru": {
+                                "name": "Krachi Nchumuru",
+                                "state": "Oti",
+                                "country": "Ghana",
+                                "latitude": 8.1892008,
+                                "longitude": -0.08661337714310087,
+                                "north_latitude": 8.3524945,
+                                "south_latitude": 8.0246958,
+                                "west_longitude": -0.3907812,
+                                "east_longitude": 0.1974535,
+                                "coordinates": [
+                                    8.188595150000001,
+                                    -0.09666385,
+                                    64714.93156303544
+                                ]
+                            },
+                            "Krachi West": {
+                                "name": "Krachi West",
+                                "state": "Oti",
+                                "country": "Ghana",
+                                "latitude": 7.85874805,
+                                "longitude": -0.010969980518988086,
+                                "north_latitude": 8.10637,
+                                "south_latitude": 7.6098721,
+                                "west_longitude": -0.1546011,
+                                "east_longitude": 0.2010441,
+                                "coordinates": [
+                                    7.858121049999999,
+                                    0.023221500000000006,
+                                    57269.870395833386
+                                ]
+                            },
+                            "Nkwanta North": {
+                                "name": "Nkwanta North",
+                                "state": "Oti",
+                                "country": "Ghana",
+                                "latitude": 8.5517612,
+                                "longitude": 0.23474378629634957,
+                                "north_latitude": 8.7753129,
+                                "south_latitude": 8.3282591,
+                                "west_longitude": 0.0782508,
+                                "east_longitude": 0.471471,
+                                "coordinates": [
+                                    8.551786,
+                                    0.27486089999999996,
+                                    51765.78065277768
+                                ]
+                            },
+                            "Nkwanta South": {
+                                "name": "Nkwanta South",
+                                "state": "Oti",
+                                "country": "Ghana",
+                                "latitude": 8.249977000000001,
+                                "longitude": 0.41270423747888696,
+                                "north_latitude": 8.6003074,
+                                "south_latitude": 7.8997121,
+                                "west_longitude": 0.1243686,
+                                "east_longitude": 0.731475,
+                                "coordinates": [
+                                    8.25000975,
+                                    0.4279218,
+                                    79989.87957638888
+                                ]
+                            }
+                        }
+                    },
+                    "Savannah": {
+                        "name": "Savannah",
+                        "country": "Ghana",
+                        "latitude": 9.0847497,
+                        "longitude": -1.8195884,
+                        "coordinates": [
+                            -1.8196384,
+                            -1.8195384,
+                            9.0846997,
+                            9.0847997
+                        ],
+                        "sub_divisions": {
+                            "Central Gonja": {
+                                "name": "Central Gonja",
+                                "state": "Savannah",
+                                "country": "Ghana",
+                                "latitude": 8.937151199999999,
+                                "longitude": -1.1098392294312955,
+                                "north_latitude": 9.3447852,
+                                "south_latitude": 8.5295866,
+                                "west_longitude": -2.2580342,
+                                "east_longitude": -0.6001812,
+                                "coordinates": [
+                                    8.9371859,
+                                    -1.4291076999999999,
+                                    181898.42027919032
+                                ]
+                            },
+                            "East Gonja": {
+                                "name": "East Gonja",
+                                "state": "Savannah",
+                                "country": "Ghana",
+                                "latitude": 8.987877050000002,
+                                "longitude": -0.4038681012697445,
+                                "north_latitude": 9.3287659,
+                                "south_latitude": 8.6469595,
+                                "west_longitude": -0.9364357,
+                                "east_longitude": -0.1951367,
+                                "coordinates": [
+                                    8.9878627,
+                                    -0.5657862,
+                                    81338.52379267922
+                                ]
+                            },
+                            "North Gonja": {
+                                "name": "North Gonja",
+                                "state": "Savannah",
+                                "country": "Ghana",
+                                "latitude": 8.987877050000002,
+                                "longitude": -0.4038681012697445,
+                                "north_latitude": 9.3287659,
+                                "south_latitude": 8.6469595,
+                                "west_longitude": -0.9364357,
+                                "east_longitude": -0.1951367,
+                                "coordinates": [
+                                    8.9878627,
+                                    -0.5657862,
+                                    81338.52379267922
+                                ]
+                            },
+                            "Sawla-Tuna-Kalba": {
+                                "name": "Sawla-Tuna-Kalba",
+                                "state": "Savannah",
+                                "country": "Ghana",
+                                "latitude": 9.4809443,
+                                "longitude": -2.413309336794357,
+                                "north_latitude": 9.8260243,
+                                "south_latitude": 9.1359107,
+                                "west_longitude": -2.7719282,
+                                "east_longitude": -1.8859542,
+                                "coordinates": [
+                                    9.4809675,
+                                    -2.3289412,
+                                    97070.63483005278
+                                ]
+                            },
+                            "West Gonja": {
+                                "name": "West Gonja",
+                                "state": "Savannah",
+                                "country": "Ghana",
+                                "latitude": 9.5267018,
+                                "longitude": -1.5071681,
+                                "north_latitude": 9.5467018,
+                                "south_latitude": 9.5067018,
+                                "west_longitude": -1.5271681,
+                                "east_longitude": -1.4871681,
+                                "coordinates": [
+                                    9.5267018,
+                                    -1.5071681,
+                                    4386.19838371932
+                                ]
+                            }
+                        }
+                    },
+                    "Upper East Region": {
+                        "name": "Upper East Region",
+                        "country": "Ghana",
+                        "latitude": 10.8070481,
+                        "longitude": -0.6870286,
+                        "coordinates": [
+                            -1.5730534,
+                            0.0344183,
+                            10.2744152,
+                            11.1748562
+                        ],
+                        "sub_divisions": {
+                            "Bawku Municipal District": {
+                                "name": "Bawku Municipal District",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 11.0419924,
+                                "longitude": -0.24294569566316604,
+                                "north_latitude": 11.1748562,
+                                "south_latitude": 10.90912,
+                                "west_longitude": -0.3385625,
+                                "east_longitude": -0.1459487,
+                                "coordinates": [
+                                    11.041988100000001,
+                                    -0.2422556,
+                                    31581.606152777887
+                                ]
+                            },
+                            "Bawku West": {
+                                "name": "Bawku West",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 10.842770000000002,
+                                "longitude": -0.4929476185124543,
+                                "north_latitude": 11.1271913,
+                                "south_latitude": 10.5583916,
+                                "west_longitude": -0.6188604,
+                                "east_longitude": -0.3295791,
+                                "coordinates": [
+                                    10.84279145,
+                                    -0.47421975,
+                                    65318.46660416662
+                                ]
+                            },
+                            "Binduri District": {
+                                "name": "Binduri District",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 10.9475864,
+                                "longitude": -0.3016557165876757,
+                                "north_latitude": 11.091944,
+                                "south_latitude": 10.7994762,
+                                "west_longitude": -0.3959477,
+                                "east_longitude": -0.2117014,
+                                "coordinates": [
+                                    10.9457101,
+                                    -0.30382455,
+                                    34557.35301388877
+                                ]
+                            },
+                            "Bolgatanga Municipal District": {
+                                "name": "Bolgatanga Municipal District",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 10.74730795,
+                                "longitude": -0.9339894468528087,
+                                "north_latitude": 10.8774819,
+                                "south_latitude": 10.6167971,
+                                "west_longitude": -1.0127077,
+                                "east_longitude": -0.8063096,
+                                "coordinates": [
+                                    10.7471395,
+                                    -0.90950865,
+                                    31019.287111111105
+                                ]
+                            },
+                            "Bongo District": {
+                                "name": "Bongo District",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 10.916683899999999,
+                                "longitude": -0.805767855895511,
+                                "north_latitude": 11.0064868,
+                                "south_latitude": 10.8276209,
+                                "west_longitude": -0.9339345,
+                                "east_longitude": -0.6449108,
+                                "coordinates": [
+                                    10.917053849999999,
+                                    -0.78942265,
+                                    31546.809642042503
+                                ]
+                            },
+                            "Builsa South": {
+                                "name": "Builsa South",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 10.53032385,
+                                "longitude": -1.2624658250835867,
+                                "north_latitude": 10.7861464,
+                                "south_latitude": 10.2744152,
+                                "west_longitude": -1.5730534,
+                                "east_longitude": -1.0656417,
+                                "coordinates": [
+                                    10.5302808,
+                                    -1.31934755,
+                                    58965.63288888887
+                                ]
+                            },
+                            "Garu-Tempane": {
+                                "name": "Garu-Tempane",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 10.8560179,
+                                "longitude": -0.1544481,
+                                "north_latitude": 10.8560179,
+                                "south_latitude": 10.852648,
+                                "west_longitude": -0.1726468,
+                                "east_longitude": -0.1362187,
+                                "coordinates": [
+                                    10.85433295,
+                                    -0.15443275,
+                                    3978.128308806719
+                                ]
+                            },
+                            "Kassena Nankana": {
+                                "name": "Kassena Nankana",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 10.873175450000002,
+                                "longitude": -1.3157209470193951,
+                                "north_latitude": 11.0210334,
+                                "south_latitude": 10.7264512,
+                                "west_longitude": -1.5289364,
+                                "east_longitude": -0.905031,
+                                "coordinates": [
+                                    10.8737423,
+                                    -1.2169837000000001,
+                                    68095.63485723965
+                                ]
+                            },
+                            "Kassena Nankana West": {
+                                "name": "Kassena Nankana West",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 10.873175450000002,
+                                "longitude": -1.3157209470193951,
+                                "north_latitude": 11.0210334,
+                                "south_latitude": 10.7264512,
+                                "west_longitude": -1.5289364,
+                                "east_longitude": -0.905031,
+                                "coordinates": [
+                                    10.8737423,
+                                    -1.2169837000000001,
+                                    68095.63485723965
+                                ]
+                            },
+                            "Nabdam": {
+                                "name": "Nabdam",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 10.8070481,
+                                "longitude": -0.6870286,
+                                "north_latitude": 11.8070481,
+                                "south_latitude": 9.8070481,
+                                "west_longitude": -1.6870286,
+                                "east_longitude": 0.3129714,
+                                "coordinates": [
+                                    10.8070481,
+                                    -0.6870286000000001,
+                                    224638.88888888888
+                                ]
+                            },
+                            "North Builsa District": {
+                                "name": "North Builsa District",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 10.7103344,
+                                "longitude": -1.2585408880461886,
+                                "north_latitude": 10.8772236,
+                                "south_latitude": 10.5433187,
+                                "west_longitude": -1.4071137,
+                                "east_longitude": -1.0809946,
+                                "coordinates": [
+                                    10.71027115,
+                                    -1.24405415,
+                                    39170.107965277806
+                                ]
+                            },
+                            "Pusiga": {
+                                "name": "Pusiga",
+                                "state": "Upper East Region",
+                                "country": "Ghana",
+                                "latitude": 11.0854045,
+                                "longitude": -0.1276855,
+                                "north_latitude": 11.1254045,
+                                "south_latitude": 11.0454045,
+                                "west_longitude": -0.1676855,
+                                "east_longitude": -0.0876855,
+                                "coordinates": [
+                                    11.0854045,
+                                    -0.1276855,
+                                    10905.555555555564
+                                ]
+                            }
+                        }
+                    },
+                    "Upper West Region": {
+                        "name": "Upper West Region",
+                        "country": "Ghana",
+                        "latitude": 10.3669525,
+                        "longitude": -2.0921426,
+                        "coordinates": [
+                            -2.9414139,
+                            -1.4239126,
+                            9.6299879,
+                            11.0210332
+                        ],
+                        "sub_divisions": {
+                            "Daffiama Bussie Issa District": {
+                                "name": "Daffiama Bussie Issa District",
+                                "state": "Upper West Region",
+                                "country": "Ghana",
+                                "latitude": 10.36748405,
+                                "longitude": -2.262226724584661,
+                                "north_latitude": 10.581341,
+                                "south_latitude": 10.1541931,
+                                "west_longitude": -2.6151109,
+                                "east_longitude": -2.0494008,
+                                "coordinates": [
+                                    10.367767050000001,
+                                    -2.33225585,
+                                    61834.42172609969
+                                ]
+                            },
+                            "Jirapa": {
+                                "name": "Jirapa",
+                                "state": "Upper West Region",
+                                "country": "Ghana",
+                                "latitude": 10.5366328,
+                                "longitude": -2.7008646,
+                                "north_latitude": 10.5766328,
+                                "south_latitude": 10.4966328,
+                                "west_longitude": -2.7408646,
+                                "east_longitude": -2.6608646,
+                                "coordinates": [
+                                    10.5366328,
+                                    -2.7008646,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Lambussie Karni": {
+                                "name": "Lambussie Karni",
+                                "state": "Upper West Region",
+                                "country": "Ghana",
+                                "latitude": 10.8284376,
+                                "longitude": -2.580168296278039,
+                                "north_latitude": 11.0042835,
+                                "south_latitude": 10.6541077,
+                                "west_longitude": -2.7633191,
+                                "east_longitude": -2.4250389,
+                                "coordinates": [
+                                    10.8291956,
+                                    -2.594179,
+                                    40981.37551388876
+                                ]
+                            },
+                            "Lawra": {
+                                "name": "Lawra",
+                                "state": "Upper West Region",
+                                "country": "Ghana",
+                                "latitude": 10.642831,
+                                "longitude": -2.893139,
+                                "north_latitude": 10.682831,
+                                "south_latitude": 10.602831,
+                                "west_longitude": -2.933139,
+                                "east_longitude": -2.853139,
+                                "coordinates": [
+                                    10.642831000000001,
+                                    -2.893139,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Nadowli": {
+                                "name": "Nadowli",
+                                "state": "Upper West Region",
+                                "country": "Ghana",
+                                "latitude": 10.372021,
+                                "longitude": -2.664189,
+                                "north_latitude": 10.412021,
+                                "south_latitude": 10.332021,
+                                "west_longitude": -2.704189,
+                                "east_longitude": -2.624189,
+                                "coordinates": [
+                                    10.372021,
+                                    -2.664189,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Nandom": {
+                                "name": "Nandom",
+                                "state": "Upper West Region",
+                                "country": "Ghana",
+                                "latitude": 10.8520701,
+                                "longitude": -2.760077,
+                                "north_latitude": 10.8920701,
+                                "south_latitude": 10.8120701,
+                                "west_longitude": -2.800077,
+                                "east_longitude": -2.720077,
+                                "coordinates": [
+                                    10.852070099999999,
+                                    -2.760077,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Sissala East": {
+                                "name": "Sissala East",
+                                "state": "Upper West Region",
+                                "country": "Ghana",
+                                "latitude": 10.59705475,
+                                "longitude": -1.8505054295213867,
+                                "north_latitude": 11.0210332,
+                                "south_latitude": 10.1728534,
+                                "west_longitude": -2.1858416,
+                                "east_longitude": -1.4239126,
+                                "coordinates": [
+                                    10.5969433,
+                                    -1.8048771,
+                                    96418.90412500006
+                                ]
+                            },
+                            "Sissala West": {
+                                "name": "Sissala West",
+                                "state": "Upper West Region",
+                                "country": "Ghana",
+                                "latitude": 10.7467085,
+                                "longitude": -2.2934695157263563,
+                                "north_latitude": 10.9995776,
+                                "south_latitude": 10.4921868,
+                                "west_longitude": -2.6354265,
+                                "east_longitude": -1.9606299,
+                                "coordinates": [
+                                    10.7458822,
+                                    -2.2980282,
+                                    73655.47883137495
+                                ]
+                            },
+                            "Wa": {
+                                "name": "Wa",
+                                "state": "Upper West Region",
+                                "country": "Ghana",
+                                "latitude": 10.0623261,
+                                "longitude": -2.5054273,
+                                "north_latitude": 10.2223261,
+                                "south_latitude": 9.9023261,
+                                "west_longitude": -2.6654273,
+                                "east_longitude": -2.3454273,
+                                "coordinates": [
+                                    10.0623261,
+                                    -2.5054273,
+                                    37622.222222222255
+                                ]
+                            },
+                            "Wa East": {
+                                "name": "Wa East",
+                                "state": "Upper West Region",
+                                "country": "Ghana",
+                                "latitude": 10.0840934,
+                                "longitude": -1.974782559862299,
+                                "north_latitude": 10.4148634,
+                                "south_latitude": 9.7533535,
+                                "west_longitude": -2.4966806,
+                                "east_longitude": -1.5854476,
+                                "coordinates": [
+                                    10.084108449999999,
+                                    -2.0410641,
+                                    99655.12598531708
+                                ]
+                            },
+                            "Wa West": {
+                                "name": "Wa West",
+                                "state": "Upper West Region",
+                                "country": "Ghana",
+                                "latitude": 9.8985772,
+                                "longitude": -2.6832633,
+                                "north_latitude": 9.9185772,
+                                "south_latitude": 9.8785772,
+                                "west_longitude": -2.7032633,
+                                "east_longitude": -2.6632633,
+                                "coordinates": [
+                                    9.8985772,
+                                    -2.6832633,
+                                    4381.318196966842
+                                ]
+                            }
+                        }
+                    },
+                    "Volta Region": {
+                        "name": "Volta Region",
+                        "country": "Ghana",
+                        "latitude": 6.5348624,
+                        "longitude": 0.4556055,
+                        "coordinates": [
+                            0.0814808,
+                            1.1996314,
+                            5.7709986,
+                            7.2266338
+                        ],
+                        "sub_divisions": {
+                            "Adaklu": {
+                                "name": "Adaklu",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.5763679,
+                                "longitude": 0.5867124,
+                                "north_latitude": 6.5963679,
+                                "south_latitude": 6.5563679,
+                                "west_longitude": 0.5667124,
+                                "east_longitude": 0.6067124,
+                                "coordinates": [
+                                    6.576367899999999,
+                                    0.5867124,
+                                    6452.777777777782
+                                ]
+                            },
+                            "Afadzato South": {
+                                "name": "Afadzato South",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.877185,
+                                "longitude": 0.36477924431275577,
+                                "north_latitude": 7.0839552,
+                                "south_latitude": 6.6704472,
+                                "west_longitude": 0.2841747,
+                                "east_longitude": 0.59482,
+                                "coordinates": [
+                                    6.8772012,
+                                    0.43949735,
+                                    48031.48083333336
+                                ]
+                            },
+                            "Agotime Ziope": {
+                                "name": "Agotime Ziope",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.4723599,
+                                "longitude": 0.6923046561711224,
+                                "north_latitude": 6.633775,
+                                "south_latitude": 6.31208,
+                                "west_longitude": 0.5835102,
+                                "east_longitude": 0.7907139,
+                                "coordinates": [
+                                    6.4729275,
+                                    0.68711205,
+                                    37810.90868055556
+                                ]
+                            },
+                            "Akatsi District": {
+                                "name": "Akatsi District",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.15413405,
+                                "longitude": 0.7973671042608745,
+                                "north_latitude": 6.3533526,
+                                "south_latitude": 5.9548436,
+                                "west_longitude": 0.6936364,
+                                "east_longitude": 0.8916025,
+                                "coordinates": [
+                                    6.154098100000001,
+                                    0.79261945,
+                                    46361.80048611109
+                                ]
+                            },
+                            "Akatsi South": {
+                                "name": "Akatsi South",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.15413405,
+                                "longitude": 0.7973671042608745,
+                                "north_latitude": 6.3533526,
+                                "south_latitude": 5.9548436,
+                                "west_longitude": 0.6936364,
+                                "east_longitude": 0.8916025,
+                                "coordinates": [
+                                    6.154098100000001,
+                                    0.79261945,
+                                    46361.80048611109
+                                ]
+                            },
+                            "Central Tongu": {
+                                "name": "Central Tongu",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.1688436499999995,
+                                "longitude": 0.6115617459171512,
+                                "north_latitude": 6.3303206,
+                                "south_latitude": 6.0067278,
+                                "west_longitude": 0.4210223,
+                                "east_longitude": 0.7221794,
+                                "coordinates": [
+                                    6.1685242,
+                                    0.57160085,
+                                    38022.17072222223
+                                ]
+                            },
+                            "Ho": {
+                                "name": "Ho",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.6126598,
+                                "longitude": 0.4688932,
+                                "north_latitude": 6.7726598,
+                                "south_latitude": 6.4526598,
+                                "west_longitude": 0.3088932,
+                                "east_longitude": 0.6288932,
+                                "coordinates": [
+                                    6.612659799999999,
+                                    0.4688932,
+                                    35334.07895420897
+                                ]
+                            },
+                            "Ho West": {
+                                "name": "Ho West",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.7860221,
+                                "longitude": 0.4444035,
+                                "north_latitude": 6.7860721,
+                                "south_latitude": 6.7859721,
+                                "west_longitude": 0.4443535,
+                                "east_longitude": 0.4444535,
+                                "coordinates": [
+                                    6.7860221,
+                                    0.4444035,
+                                    11.041592404572487
+                                ]
+                            },
+                            "Hohoe": {
+                                "name": "Hohoe",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 7.153187,
+                                "longitude": 0.477735,
+                                "north_latitude": 7.193187,
+                                "south_latitude": 7.113187,
+                                "west_longitude": 0.437735,
+                                "east_longitude": 0.517735,
+                                "coordinates": [
+                                    7.153187,
+                                    0.47773499999999997,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Keta": {
+                                "name": "Keta",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 5.9215688,
+                                "longitude": 0.9910728,
+                                "north_latitude": 5.9615688,
+                                "south_latitude": 5.8815688,
+                                "west_longitude": 0.9510728,
+                                "east_longitude": 1.0310728,
+                                "coordinates": [
+                                    5.9215688,
+                                    0.9910728,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Ketu North District": {
+                                "name": "Ketu North District",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.192057,
+                                "longitude": 0.9811514013818169,
+                                "north_latitude": 6.335475,
+                                "south_latitude": 6.0466097,
+                                "west_longitude": 0.8630518,
+                                "east_longitude": 1.082907,
+                                "coordinates": [
+                                    6.19104235,
+                                    0.9729794,
+                                    34156.32471527771
+                                ]
+                            },
+                            "Ketu South District": {
+                                "name": "Ketu South District",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.1185256,
+                                "longitude": 1.1332397553208913,
+                                "north_latitude": 6.1190748,
+                                "south_latitude": 6.1179058,
+                                "west_longitude": 1.1327746,
+                                "east_longitude": 1.1342403,
+                                "coordinates": [
+                                    6.1184902999999995,
+                                    1.1335074500000002,
+                                    162.04983644962758
+                                ]
+                            },
+                            "Kpando": {
+                                "name": "Kpando",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.9971645,
+                                "longitude": 0.2937002,
+                                "north_latitude": 7.0371645,
+                                "south_latitude": 6.9571645,
+                                "west_longitude": 0.2537002,
+                                "east_longitude": 0.3337002,
+                                "coordinates": [
+                                    6.9971645,
+                                    0.29370019999999997,
+                                    10905.555555555564
+                                ]
+                            },
+                            "North Dayi": {
+                                "name": "North Dayi",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.91384645,
+                                "longitude": 0.2226731892612706,
+                                "north_latitude": 7.1796958,
+                                "south_latitude": 6.647813,
+                                "west_longitude": 0.1547883,
+                                "east_longitude": 0.3576135,
+                                "coordinates": [
+                                    6.9137544,
+                                    0.25620089999999995,
+                                    61208.897805555556
+                                ]
+                            },
+                            "North Tongu": {
+                                "name": "North Tongu",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.14399495,
+                                "longitude": 0.29718892489643306,
+                                "north_latitude": 6.3337839,
+                                "south_latitude": 5.9548688,
+                                "west_longitude": 0.0934696,
+                                "east_longitude": 0.5046896,
+                                "coordinates": [
+                                    6.14432635,
+                                    0.2990796,
+                                    45446.47241603
+                                ]
+                            },
+                            "South Dayi": {
+                                "name": "South Dayi",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 6.544908700000001,
+                                "longitude": 0.2405460202833739,
+                                "north_latitude": 6.6897998,
+                                "south_latitude": 6.4011344,
+                                "west_longitude": 0.0814808,
+                                "east_longitude": 0.3530649,
+                                "coordinates": [
+                                    6.5454671,
+                                    0.21727285000000002,
+                                    34134.071958333356
+                                ]
+                            },
+                            "South Tongu District": {
+                                "name": "South Tongu District",
+                                "state": "Volta Region",
+                                "country": "Ghana",
+                                "latitude": 5.96577275,
+                                "longitude": 0.6410612281101484,
+                                "north_latitude": 6.1547314,
+                                "south_latitude": 5.7744265,
+                                "west_longitude": 0.4873681,
+                                "east_longitude": 0.788392,
+                                "coordinates": [
+                                    5.96457895,
+                                    0.63788005,
+                                    44335.330187500054
+                                ]
+                            }
+                        }
+                    },
+                    "Western North": {
+                        "name": "Western North",
+                        "country": "Ghana",
+                        "latitude": 6.19454395,
+                        "longitude": -2.3222895,
+                        "coordinates": [
+                            -2.3223768,
+                            -2.3222022,
+                            6.1944593,
+                            6.1946286
+                        ],
+                        "sub_divisions": {
+                            "Aowin/Suaman": {
+                                "name": "Aowin/Suaman",
+                                "state": "Western North",
+                                "country": "Ghana",
+                                "latitude": 5.8277647,
+                                "longitude": -2.8205779,
+                                "north_latitude": 5.8278147,
+                                "south_latitude": 5.8277147,
+                                "west_longitude": -2.8206279,
+                                "east_longitude": -2.8205279,
+                                "coordinates": [
+                                    5.8277646999999995,
+                                    -2.8205779,
+                                    2011.1319444445173
+                                ]
+                            },
+                            "Bia": {
+                                "name": "Bia",
+                                "state": "Western North",
+                                "country": "Ghana",
+                                "latitude": 6.56894165,
+                                "longitude": -3.0662888397584327,
+                                "north_latitude": 6.8239581,
+                                "south_latitude": 6.312826,
+                                "west_longitude": -3.260786,
+                                "east_longitude": -2.8732359,
+                                "coordinates": [
+                                    6.56839205,
+                                    -3.0670109500000002,
+                                    58898.941409722145
+                                ]
+                            },
+                            "Bia East": {
+                                "name": "Bia East",
+                                "state": "Western North",
+                                "country": "Ghana",
+                                "latitude": 6.817878,
+                                "longitude": -3.0068178677542488,
+                                "north_latitude": 7.0064558,
+                                "south_latitude": 6.6293551,
+                                "west_longitude": -3.230654,
+                                "east_longitude": -2.8336144,
+                                "coordinates": [
+                                    6.81790545,
+                                    -3.0321342,
+                                    43819.10430435483
+                                ]
+                            },
+                            "Bodi": {
+                                "name": "Bodi",
+                                "state": "Western North",
+                                "country": "Ghana",
+                                "latitude": 6.2220878,
+                                "longitude": -2.7569465,
+                                "north_latitude": 6.2420878,
+                                "south_latitude": 6.2020878,
+                                "west_longitude": -2.7769465,
+                                "east_longitude": -2.7369465,
+                                "coordinates": [
+                                    6.222087800000001,
+                                    -2.7569465,
+                                    6452.777777777782
+                                ]
+                            },
+                            "Juaboso": {
+                                "name": "Juaboso",
+                                "state": "Western North",
+                                "country": "Ghana",
+                                "latitude": 6.3415722,
+                                "longitude": -2.8235416,
+                                "north_latitude": 6.3615722,
+                                "south_latitude": 6.3215722,
+                                "west_longitude": -2.8435416,
+                                "east_longitude": -2.8035416,
+                                "coordinates": [
+                                    6.3415722,
+                                    -2.8235416,
+                                    6452.777777777782
+                                ]
+                            },
+                            "Sefwi-Wiawso": {
+                                "name": "Sefwi-Wiawso",
+                                "state": "Western North",
+                                "country": "Ghana",
+                                "latitude": 6.2052869,
+                                "longitude": -2.4882333,
+                                "north_latitude": 6.2452869,
+                                "south_latitude": 6.1652869,
+                                "west_longitude": -2.5282333,
+                                "east_longitude": -2.4482333,
+                                "coordinates": [
+                                    6.2052869,
+                                    -2.4882333,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Suaman": {
+                                "name": "Suaman",
+                                "state": "Western North",
+                                "country": "Ghana",
+                                "latitude": 6.1082415999999995,
+                                "longitude": -3.008697120637989,
+                                "north_latitude": 6.2335038,
+                                "south_latitude": 5.982843,
+                                "west_longitude": -3.1315383,
+                                "east_longitude": -2.9082912,
+                                "coordinates": [
+                                    6.1081734,
+                                    -3.01991475,
+                                    29903.42100000004
+                                ]
+                            }
+                        }
+                    },
+                    "Western Region": {
+                        "name": "Western Region",
+                        "country": "Ghana",
+                        "latitude": 5.4261241,
+                        "longitude": -2.1286574,
+                        "coordinates": [
+                            -3.110508,
+                            -1.400242,
+                            4.739343,
+                            6.1504326
+                        ],
+                        "sub_divisions": {
+                            "Ahanta West": {
+                                "name": "Ahanta West",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 4.8514282,
+                                "longitude": -1.9866546180300655,
+                                "north_latitude": 4.9635117,
+                                "south_latitude": 4.739343,
+                                "west_longitude": -2.1812599,
+                                "east_longitude": -1.7678493,
+                                "coordinates": [
+                                    4.85142735,
+                                    -1.9745546,
+                                    45796.77700556755
+                                ]
+                            },
+                            "Ellembelle": {
+                                "name": "Ellembelle",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 5.149522149999999,
+                                "longitude": -2.4214253619049186,
+                                "north_latitude": 5.4006734,
+                                "south_latitude": 4.8983929,
+                                "west_longitude": -2.5651413,
+                                "east_longitude": -2.2138274,
+                                "coordinates": [
+                                    5.14953315,
+                                    -2.38948435,
+                                    57913.58621527772
+                                ]
+                            },
+                            "Jomoro": {
+                                "name": "Jomoro",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 5.199616,
+                                "longitude": -2.614734347152968,
+                                "north_latitude": 5.416613,
+                                "south_latitude": 4.9807462,
+                                "west_longitude": -3.110508,
+                                "east_longitude": -2.4785442,
+                                "coordinates": [
+                                    5.1986796,
+                                    -2.7945260999999997,
+                                    69957.3820306566
+                                ]
+                            },
+                            "Mpohor": {
+                                "name": "Mpohor",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 4.9705877,
+                                "longitude": -1.8927971,
+                                "north_latitude": 5.0105877,
+                                "south_latitude": 4.9305877,
+                                "west_longitude": -1.9327971,
+                                "east_longitude": -1.8527971,
+                                "coordinates": [
+                                    4.9705877,
+                                    -1.8927971000000001,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Nzema East": {
+                                "name": "Nzema East",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 5.08576495,
+                                "longitude": -2.2226341689870717,
+                                "north_latitude": 5.3555814,
+                                "south_latitude": 4.8158963,
+                                "west_longitude": -2.3679949,
+                                "east_longitude": -2.0602825,
+                                "coordinates": [
+                                    5.08573885,
+                                    -2.2141387,
+                                    62077.44550694442
+                                ]
+                            },
+                            "Prestea-Huni Valley": {
+                                "name": "Prestea-Huni Valley",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 5.4336458,
+                                "longitude": -2.1423648,
+                                "north_latitude": 5.4736458,
+                                "south_latitude": 5.3936458,
+                                "west_longitude": -2.1823648,
+                                "east_longitude": -2.1023648,
+                                "coordinates": [
+                                    5.4336458,
+                                    -2.1423648,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Secondi Takoradi": {
+                                "name": "Secondi Takoradi",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 4.960504200000001,
+                                "longitude": -1.6968861499999996,
+                                "north_latitude": 4.9611223,
+                                "south_latitude": 4.9598861,
+                                "west_longitude": -1.6974533,
+                                "east_longitude": -1.696319,
+                                "coordinates": [
+                                    4.960504200000001,
+                                    -1.69688615,
+                                    2137.613097222237
+                                ]
+                            },
+                            "Shama": {
+                                "name": "Shama",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 5.0102883,
+                                "longitude": -1.6289843,
+                                "north_latitude": 5.0502883,
+                                "south_latitude": 4.9702883,
+                                "west_longitude": -1.6689843,
+                                "east_longitude": -1.5889843,
+                                "coordinates": [
+                                    5.0102883,
+                                    -1.6289843,
+                                    10905.555555555564
+                                ]
+                            },
+                            "Tarkwa Nsuaem": {
+                                "name": "Tarkwa Nsuaem",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 5.13674135,
+                                "longitude": -2.035945545161474,
+                                "north_latitude": 5.3725445,
+                                "south_latitude": 4.9008319,
+                                "west_longitude": -2.1547506,
+                                "east_longitude": -1.8499339,
+                                "coordinates": [
+                                    5.1366882,
+                                    -2.00234225,
+                                    54510.78456944445
+                                ]
+                            },
+                            "Wassa Amenfi Central": {
+                                "name": "Wassa Amenfi Central",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 5.7890318,
+                                "longitude": -2.0839856,
+                                "north_latitude": 5.7890818,
+                                "south_latitude": 5.7889818,
+                                "west_longitude": -2.0840356,
+                                "east_longitude": -2.0839356,
+                                "coordinates": [
+                                    5.7890318,
+                                    -2.0839856,
+                                    2011.1319444444184
+                                ]
+                            },
+                            "Wassa Amenfi East": {
+                                "name": "Wassa Amenfi East",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 5.876605850000001,
+                                "longitude": -1.9897539851041608,
+                                "north_latitude": 6.1467581,
+                                "south_latitude": 5.6061234,
+                                "west_longitude": -2.213796,
+                                "east_longitude": -1.7842485,
+                                "coordinates": [
+                                    5.87644075,
+                                    -1.99902225,
+                                    62183.15445138879
+                                ]
+                            },
+                            "Wassa Amenfi West": {
+                                "name": "Wassa Amenfi West",
+                                "state": "Western Region",
+                                "country": "Ghana",
+                                "latitude": 5.7735167,
+                                "longitude": -2.5321498,
+                                "north_latitude": 5.8135167,
+                                "south_latitude": 5.7335167,
+                                "west_longitude": -2.5721498,
+                                "east_longitude": -2.4921498,
+                                "coordinates": [
+                                    5.7735167,
+                                    -2.5321498,
+                                    10905.555555555564
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+]

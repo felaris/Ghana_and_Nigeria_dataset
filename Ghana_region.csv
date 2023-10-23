@@ -1,0 +1,17 @@
+country_name,region_name,longitude,latitude,number_of_cities,region_id
+Ghana,Ahafo,-1.9009535502873676,6.94633355,10,1.01
+Ghana,Ashanti Region,-1.5188142,6.8003319,13,1.02
+Ghana,Bono,-2.7020869,10.4032142,6,1.03
+Ghana,Bono East,-1.9862531,7.5598966,27,1.04
+Ghana,Central Region,-1.3761749,5.7244148,19,1.05
+Ghana,Eastern Region,-0.3770964,6.446877,10,1.06
+Ghana,Greater Accra Region,0.0995242,5.8101532,26,1.07
+Ghana,North East,37.6542369,0.0463057,13,1.08
+Ghana,Northern Region,-0.3943799,9.6600005,14,1.09
+Ghana,Oti,-1.6148887,6.6880553,13,1.1
+Ghana,Savannah,-1.8195884,9.0847497,10,1.11
+Ghana,Upper East Region,-0.6870286,10.8070481,6,1.12
+Ghana,Upper West Region,-2.0921426,10.3669525,7,1.13
+Ghana,Volta Region,0.4556055,6.5348624,20,1.14
+Ghana,Western North,-2.3222895,6.19454395,6,1.15
+Ghana,Western Region,-2.1286574,5.4261241,17,1.16
